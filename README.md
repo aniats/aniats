@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Backend Engineer with Bachelor’s degree in Computer Science 💻 
+Backend Engineer with Bachelor’s degree in Computer Science, currently doing Masters
 
-:call_me_hand: Ex. backend Engineer at Tinkoff, An MLH ’20 fellow (Batch 1 Pod 1.1.0), Tinkoff Kotlin Fintech Graduate, Tinkoff Fintech QA Engineer Graduate
-:woman_technologist: Participant Facebook Coding Mentorship, :woman_student: passionate learner
+Ex. backend Engineer at Tinkoff, An MLH ’20 fellow (Batch 1 Pod 1.1.0), Tinkoff Kotlin Fintech Graduate, Tinkoff Fintech QA Engineer Graduate, Participant Facebook Coding Mentorship
 
-:computer: Mostly proficient at: Kotlin, Java, JavaScript, TypeScript, C++, Ruby
+Mostly proficient at: Kotlin, Java, JavaScript, TypeScript
 
 🌴🀄 Also, I'm in love with traveling  and foreign languages
+
+https://www.linkedin.com/in/anna-tselikova/
