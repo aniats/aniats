@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-Backend Engineer with Bachelor’s degree in Computer Science, currently doing Masters
+Backend Engineer with a Master’s degree in Computer Science.
 
-Ex. backend Engineer at Tinkoff, An MLH ’20 fellow (Batch 1 Pod 1.1.0), Tinkoff Kotlin Fintech Graduate, Tinkoff Fintech QA Engineer Graduate, Participant Facebook Coding Mentorship
+Currently building backend systems at Ozon, previously at Tinkoff.
+I'm also an MLH '20 Fellow (Batch 1 Pod 1.1.0), a graduate of the Tinkoff Kotlin Fintech and QA Engineering programs, and a former participant in the Facebook Coding Mentorship.
 
-Mostly proficient at: Kotlin, Java, JavaScript, TypeScript
+Studied at Yaroslavl State University, Universität Freiburg
 
-🌴🀄 Also, I'm in love with traveling  and foreign languages
+Proficient in: Kotlin, Java, Go, JavaScript, TypeScript.
+Passionate about: traveling 🌍 and learning foreign languages 🗣️
 
-https://www.linkedin.com/in/anna-tselikova/
+[LinkedIn – Anna Tselikova](https://www.linkedin.com/in/anna-tselikova/)
